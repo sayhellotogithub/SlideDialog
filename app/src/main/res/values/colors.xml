@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--slide dialog-->
+    <color name="slide_dialog_bg">#EF141B1D</color>
+    <color name="slide_dialog_bg_translucent">#28000000</color>
+    <color name="slide_dialog_bg_transparent">#00000000</color>
+</resources>
